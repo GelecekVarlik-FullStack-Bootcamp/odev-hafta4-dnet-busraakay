@@ -1,0 +1,15 @@
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Interface\bin\Debug\net5.0\Homework4.Interface.deps.json
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Interface\bin\Debug\net5.0\Homework4.Interface.dll
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Interface\bin\Debug\net5.0\ref\Homework4.Interface.dll
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Interface\bin\Debug\net5.0\Homework4.Interface.pdb
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Interface\obj\Debug\net5.0\Homework4.Interface.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Interface\obj\Debug\net5.0\Homework4.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Interface\obj\Debug\net5.0\Homework4.Interface.AssemblyInfoInputs.cache
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Interface\obj\Debug\net5.0\Homework4.Interface.AssemblyInfo.cs
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Interface\obj\Debug\net5.0\Homework4.Interface.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Interface\obj\Debug\net5.0\Homework4.Interface.dll
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Interface\obj\Debug\net5.0\ref\Homework4.Interface.dll
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Interface\obj\Debug\net5.0\Homework4.Interface.pdb
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Interface\bin\Debug\net5.0\Homework4.Entity.dll
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Interface\bin\Debug\net5.0\Homework4.Entity.pdb
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Interface\obj\Debug\net5.0\Homework4.Interface.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Entity\bin\Debug\net5.0\Homework4.Entity.deps.json
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Entity\bin\Debug\net5.0\Homework4.Entity.runtimeconfig.json
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Entity\bin\Debug\net5.0\Homework4.Entity.runtimeconfig.dev.json
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Entity\bin\Debug\net5.0\Homework4.Entity.dll
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Entity\bin\Debug\net5.0\ref\Homework4.Entity.dll
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Entity\bin\Debug\net5.0\Homework4.Entity.pdb
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Entity\obj\Debug\net5.0\Homework4.Entity.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Entity\obj\Debug\net5.0\Homework4.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Entity\obj\Debug\net5.0\Homework4.Entity.AssemblyInfoInputs.cache
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Entity\obj\Debug\net5.0\Homework4.Entity.AssemblyInfo.cs
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Entity\obj\Debug\net5.0\Homework4.Entity.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Entity\obj\Debug\net5.0\Homework4.Entity.dll
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Entity\obj\Debug\net5.0\ref\Homework4.Entity.dll
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Entity\obj\Debug\net5.0\Homework4.Entity.pdb
+C:\Users\busra\source\repos\GelecekVarlik\Homework4.Dal\Homework4.Entity\obj\Debug\net5.0\Homework4.Entity.genruntimeconfig.cache
